@@ -1,0 +1,808 @@
+source,title,speaking
+OKAJ,Vëllezërit Gjokaj,Vellezerit Gjokaj
+VËLLEZËRIT GRIM,Vëllezërit Grim,Vellezerit Grim
+VËLLEZËRIT GËRVALLA,Vëllezërit Gërvalla,Vellezerit Gervalla
+VËLLEZËRIT HARADINAJ,Vëllezërit Haradinaj,Vellezerit Haradinaj
+VËLLEZËRIT HASANAJ,Vëllezërit Hasanaj,Vellezerit Hasanaj
+VËLLEZËRIT HAXHIJA,Vëllezërit Haxhija,Vellezerit Haxhija
+VËLLEZËRIT HOTI,Vëllezërit Hoti,Vellezerit Hoti
+VËLLEZËRIT HOXHA,Vëllezërit Hoxha,Vellezerit Hoxha
+VËLLEZËRIT IBISHI,Vëllezërit Ibishi,Vellezerit Ibishi
+VËLLEZËRIT IBRAHIMI,Vëllezërit Ibrahimi,Vellezerit Ibrahimi
+VËLLEZËRIT ISMAJLI,Vëllezërit Ismajli,Vellezerit Ismajli
+VËLLEZËRIT JASHARI,Vëllezërit Jashari,Vellezerit Jashari
+VËLLEZËRIT KADIRI,Vëllezërit Kadiri,Vellezerit Kadiri
+VËLLEZËRIT KAJTAZAJ,Vëllezërit Kajtazaj,Vellezerit Kajtazaj
+VËLLEZËRIT KAJTAZI,Vëllezërit Kajtazi,Vellezerit Kajtazi
+VËLLEZËRIT KASTRATI,Vëllezërit Kastrati,Vellezerit Kastrati
+VËLLEZËRIT KQIRAJ,Vëllezërit Kqiraj,Vellezerit Kqiraj
+VËLLEZËRIT KRIVAÇA,Vëllezërit Krivaça,Vellezerit Krivaca
+VËLLEZËRIT KURTAJ,Vëllezërit Kurtaj,Vellezerit Kurtaj
+VËLLEZËRIT LATIFI,Vëllezërit Latifi,Vellezerit Latifi
+VËLLEZËRIT LIMANI,Vëllezërit Limani,Vellezerit Limani
+VËLLEZËRIT LLESHI,Vëllezërit Lleshi,Vellezerit Lleshi
+VËLLEZËRIT MAJANCI,Vëllezërit Majanci,Vellezerit Majanci
+VËLLEZËRIT MALOKU,Vëllezërit Maloku,Vellezerit Maloku
+VËLLEZËRIT MATAROVA,Vëllezërit Matarova,Vellezerit Matarova
+VËLLEZËRIT MEHMETI,Vëllezërit Mehmeti,Vellezerit Mehmeti
+VËLLEZËRIT MELENICA,Vëllezërit Melenica,Vellezerit Melenica
+VËLLEZËRIT MESHI,Vëllezërit Meshi,Vellezerit Meshi
+VËLLEZËRIT METOLLI,Vëllezërit Metolli,Vellezerit Metolli
+VËLLEZËRIT MORINA,Vëllezërit Morina,Vellezerit Morina
+VËLLEZËRIT MUHADRI,Vëllezërit Muhadri,Vellezerit Muhadri
+VËLLEZËRIT MULA,Vëllezërit Mula,Vellezerit Mula
+VËLLEZËRIT MUSLIU,Vëllezërit Musliu,Vellezerit Musliu
+VËLLEZËRIT MUZAQI,Vëllezërit Muzaqi,Vellezerit Muzaqi
+VËLLEZËRIT NIMANI,Vëllezërit Nimani,Vellezerit Nimani
+VËLLEZËRIT PODVORICA,Vëllezërit Podvorica,Vellezerit Podvorica
+VËLLEZËRIT PREKAZI,Vëllezërit Prekazi,Vellezerit Prekazi
+VËLLEZËRIT PËRVETICA,Vëllezërit Përvetica,Vellezerit Pervetica
+VËLLEZËRIT QATANI,Vëllezërit Qatani,Vellezerit Qatani
+VËLLEZËRIT QELAJ,Vëllezërit Qelaj,Vellezerit Qelaj
+VËLLEZËRIT RAMA,Vëllezërit Rama,Vellezerit Rama
+VËLLEZËRIT RAMOCI,Vëllezërit Ramoci,Vellezerit Ramoci
+VËLLEZËRIT RAMOJA,Vëllezërit Ramoja,Vellezerit Ramoja
+VËLLEZËRIT RRAHMANI,Vëllezërit Rrahmani,Vellezerit Rrahmani
+VËLLEZËRIT RUSHITI,Vëllezërit Rushiti,Vellezerit Rushiti
+VËLLEZËRIT SADIKAJ,Vëllezërit Sadikaj,Vellezerit Sadikaj
+VËLLEZËRIT SEFIU,Vëllezërit Sefiu,Vellezerit Sefiu
+VËLLEZËRIT SELMANI,Vëllezërit Selmani,Vellezerit Selmani
+VËLLEZËRIT SHABANDULA,Vëllezërit Shabandula,Vellezerit Shabandula
+VËLLEZËRIT SHAHINAJ,Vëllezërit Shahinaj,Vellezerit Shahinaj
+VËLLEZËRIT SHALA,Vëllezërit Shala,Vellezerit Shala
+VËLLEZËRIT SHEMSIDINI,Vëllezërit Shemsidini,Vellezerit Shemsidini
+VËLLEZËRIT SOPA,Vëllezërit Sopa,Vellezerit Sopa
+VËLLEZËRIT SPAHIU,Vëllezërit Spahiu,Vellezerit Spahiu
+VËLLEZËRIT STATOVCI,Vëllezërit Statovci,Vellezerit Statovci
+VËLLEZËRIT SURDULLI,Vëllezërit Surdulli,Vellezerit Surdulli
+VËLLEZËRIT TAHIRI,Vëllezërit Tahiri,Vellezerit Tahiri
+VËLLEZËRIT TOVËRLANI,Vëllezërit Tovërlani,Vellezerit Toverlani
+VËLLEZËRIT UGLARI,Vëllezërit Uglari,Vellezerit Uglari
+VËLLEZËRIT UKA,Vëllezërit Uka,Vellezerit Uka
+VËLLEZËRIT UKAJ,Vëllezërit Ukaj,Vellezerit Ukaj
+VËLLEZËRIT VELIU,Vëllezërit Veliu,Vellezerit Veliu
+VËLLEZËRIT VESELI,Vëllezërit Veseli,Vellezerit Veseli
+VËLLEZËRIT VISHAJ,Vëllezërit Vishaj,Vellezerit Vishaj
+VËLLEZËRIT VUQALIU,Vëllezërit Vuqaliu,Vellezerit Vuqaliu
+VËLLEZËRIT XHAKLI,Vëllezërit Xhakli,Vellezerit Xhakli
+VËLLEZËRIT ZEKIÇI,Vëllezërit Zekiçi,Vellezerit Zekici
+VËLLEZËRIT ZEQIRAJ,Vëllezërit Zeqiraj,Vellezerit Zeqiraj
+VËLLEZËRIT ZEQIRI,Vëllezërit Zeqiri,Vellezerit Zeqiri
+VËLLEZËRIT ÇAKA,Vëllezërit Çaka,Vellezerit Caka
+VËLLEZËRIT ÇITAKU,Vëllezërit Çitaku,Vellezerit Citaku
+VËNET BAJRAMAJ,Vënet Bajramaj,Venet Bajramaj
+VËRBANI,Vërbani,Verbani
+VËRBICA,Vërbica,Verbica
+VËRRINI,Vërrini,Verrini
+VËZHGIMI,Vëzhgimi,Vezhgimi
+WOODROW WILSON,Woodrow Wilson,Woodrow Wilson
+XADI,Xadi,Xadi
+XAJË EMINI,Xajë Emini,Xaje Emini
+XAJË JASHARI,Xajë Jashari,Xaje Jashari
+XAJË KUÇI,Xajë Kuçi,Xaje Kuci
+XAJË PATAÇANI,Xajë Pataçani,Xaje Patacani
+XAJË SADRIA,Xajë Sadria,Xaje Sadria
+XAJË TIRANA,Xajë Tirana,Xaje Tirana
+XANI,Xani,Xani
+XEHETARËT,Xehetarët,Xehetaret
+XEHRORES,Xehrores,Xehrores
+XEHTARI,Xehtari,Xehtari
+XEHËRORJA,Xehërorja,Xeherorja
+XHABIR TOQANI,Xhabir Toqani,Xhabir Toqani
+XHAFA,Xhafa,Xhafa
+XHAFER AJVAZI,Xhafer Ajvazi,Xhafer Ajvazi
+XHAFER AVDULLAHU,Xhafer Avdullahu,Xhafer Avdullahu
+XHAFER BALAJ,Xhafer Balaj,Xhafer Balaj
+XHAFER BISTRICA,Xhafer Bistrica,Xhafer Bistrica
+XHAFER BYTYÇI,Xhafer Bytyçi,Xhafer Bytyci
+XHAFER DEVA,Xhafer Deva,Xhafer Deva
+XHAFER E NEVZAD KRASNIQI,Xhafer e Nevzad Krasniqi,Xhafer e Nevzad Krasniqi
+XHAFER GASHI,Xhafer Gashi,Xhafer Gashi
+XHAFER HAJDINI,Xhafer Hajdini,Xhafer Hajdini
+XHAFER HAJREDINI,Xhafer Hajredini,Xhafer Hajredini
+XHAFER HASKAJ,Xhafer Haskaj,Xhafer Haskaj
+XHAFER ISTREFI,Xhafer Istrefi,Xhafer Istrefi
+XHAFER KABASHI,Xhafer Kabashi,Xhafer Kabashi
+XHAFER KADRIAJ,Xhafer Kadriaj,Xhafer Kadriaj
+XHAFER KOSUMI,Xhafer Kosumi,Xhafer Kosumi
+XHAFER KRYEZIU,Xhafer Kryeziu,Xhafer Kryeziu
+XHAFER KURHASKU,Xhafer Kurhasku,Xhafer Kurhasku
+XHAFER LIPOVECI,Xhafer Lipoveci,Xhafer Lipoveci
+XHAFER MAXHUNI,Xhafer Maxhuni,Xhafer Maxhuni
+XHAFER MAÇASTENA,Xhafer Maçastena,Xhafer Macastena
+XHAFER MEHMETAJ,Xhafer Mehmetaj,Xhafer Mehmetaj
+XHAFER META,Xhafer Meta,Xhafer Meta
+XHAFER MUSLIJAJ,Xhafer Muslijaj,Xhafer Muslijaj
+XHAFER MUSTAFA,Xhafer Mustafa,Xhafer Mustafa
+XHAFER NURKASA,Xhafer Nurkasa,Xhafer Nurkasa
+XHAFER RRAHMAN MEHMETI,Xhafer Rrahman Mehmeti,Xhafer Rrahman Mehmeti
+XHAFER SHALA,Xhafer Shala,Xhafer Shala
+XHAFER THAQI,Xhafer Thaqi,Xhafer Thaqi
+XHAFER UKA,Xhafer Uka,Xhafer Uka
+XHAFER VEHAPI,Xhafer Vehapi,Xhafer Vehapi
+XHAFER VUQA,Xhafer Vuqa,Xhafer Vuqa
+XHAFER XËRXA,Xhafer Xërxa,Xhafer Xerxa
+XHAFERI,Xhaferi,Xhaferi
+XHAFERRI,Xhaferri,Xhaferri
+XHAMIA,Xhamia,Xhamia
+XHAMIA  1872,Xhamia  1872,Xhamia  1872
+XHAMIA E RAHOVËS,Xhamia e Rahovës,Xhamia e Rahoves
+XHAMIA E RINISË,Xhamia e Rinisë,Xhamia e Rinise
+XHAMIA E VJETER,Xhamia e Vjeter,Xhamia e Vjeter
+XHAMIA VJETËR,Xhamia Vjetër,Xhamia Vjeter
+XHAMISË,Xhamisë,Xhamise
+XHAMISË CARRABREG I EPËRM,Xhamisë Carrabreg I Epërm,Xhamise Carrabreg I Eperm
+XHAQKU,Xhaqku,Xhaqku
+XHAVID NIMANI,Xhavid Nimani,Xhavid Nimani
+XHAVIT AHMETI,Xhavit Ahmeti,Xhavit Ahmeti
+XHAVIT BAHTIRI,Xhavit Bahtiri,Xhavit Bahtiri
+XHAVIT BAJRAKTARI,Xhavit Bajraktari,Xhavit Bajraktari
+XHAVIT BERISHA,Xhavit Berisha,Xhavit Berisha
+XHAVIT BISLIMI,Xhavit Bislimi,Xhavit Bislimi
+XHAVIT DHE ARSIM GASHI,Xhavit Dhe Arsim Gashi,Xhavit Dhe Arsim Gashi
+XHAVIT FERIZI,Xhavit Ferizi,Xhavit Ferizi
+XHAVIT FETAHAJ,Xhavit Fetahaj,Xhavit Fetahaj
+XHAVIT GASHI,Xhavit Gashi,Xhavit Gashi
+XHAVIT HAJREDINI,Xhavit Hajredini,Xhavit Hajredini
+XHAVIT HASANI,Xhavit Hasani,Xhavit Hasani
+XHAVIT HAZIRI,Xhavit Haziri,Xhavit Haziri
+XHAVIT HOXHA,Xhavit Hoxha,Xhavit Hoxha
+XHAVIT ISLAMI,Xhavit Islami,Xhavit Islami
+XHAVIT JUSUFI,Xhavit Jusufi,Xhavit Jusufi
+XHAVIT KELMENDI,Xhavit Kelmendi,Xhavit Kelmendi
+XHAVIT KOZHANI,Xhavit Kozhani,Xhavit Kozhani
+XHAVIT MALOKU,Xhavit Maloku,Xhavit Maloku
+XHAVIT MULAKU,Xhavit Mulaku,Xhavit Mulaku
+XHAVIT PADINA,Xhavit Padina,Xhavit Padina
+XHAVIT POPAJ,Xhavit Popaj,Xhavit Popaj
+XHAVIT SHEQIRI,Xhavit Sheqiri,Xhavit Sheqiri
+XHAVIT SPAHIU,Xhavit Spahiu,Xhavit Spahiu
+XHAVIT SYLAJ,Xhavit Sylaj,Xhavit Sylaj
+XHAVIT UKA,Xhavit Uka,Xhavit Uka
+XHAVITI E ILAZI,Xhaviti e Ilazi,Xhaviti e Ilazi
+XHAXHI,Xhaxhi,Xhaxhi
+XHELA,Xhela,Xhela
+XHELADIN ABDULLAHU,Xheladin Abdullahu,Xheladin Abdullahu
+XHELADIN ALIU,Xheladin Aliu,Xheladin Aliu
+XHELADIN DEDA,Xheladin Deda,Xheladin Deda
+XHELADIN FETAHU,Xheladin Fetahu,Xheladin Fetahu
+XHELADIN GASHI,Xheladin Gashi,Xheladin Gashi
+XHELADIN HANA,Xheladin Hana,Xheladin Hana
+XHELADIN HANA,Xheladin Hana,Xheladin Hana
+XHELADIN IDRIZI,Xheladin Idrizi,Xheladin Idrizi
+XHELADIN KOSUMI,Xheladin Kosumi,Xheladin Kosumi
+XHELADIN KURBALIU,Xheladin Kurbaliu,Xheladin Kurbaliu
+XHELADIN KURTAJ,Xheladin Kurtaj,Xheladin Kurtaj
+XHELADIN KUTLLOVCI,Xheladin Kutllovci,Xheladin Kutllovci
+XHELADIN MALOKU,Xheladin Maloku,Xheladin Maloku
+XHELADIN NUSHI,Xheladin Nushi,Xheladin Nushi
+XHELADIN REKALIU,Xheladin Rekaliu,Xheladin Rekaliu
+XHELADIN SALIHU,Xheladin Salihu,Xheladin Salihu
+XHELADIN SINANI,Xheladin Sinani,Xheladin Sinani
+XHELADIN XHELADINI,Xheladin Xheladini,Xheladin Xheladini
+XHELADINI,Xheladini,Xheladini
+XHELAJ,Xhelaj,Xhelaj
+XHELAL HAJDA,Xhelal Hajda,Xhelal Hajda
+XHELAL KUÇI,Xhelal Kuçi,Xhelal Kuci
+XHELAL MITROVICA,Xhelal Mitrovica,Xhelal Mitrovica
+XHELAL PREVEZA,Xhelal Preveza,Xhelal Preveza
+XHELAL SOPI,Xhelal Sopi,Xhelal Sopi
+XHELAL XHIBO,Xhelal Xhibo,Xhelal Xhibo
+XHELIL PLLANA,Xhelil Pllana,Xhelil Pllana
+XHELIL THAÇI,Xhelil Thaçi,Xhelil Thaci
+XHELË DEMAJ,Xhelë Demaj,Xhele Demaj
+XHELË ESATI,Xhelë Esati,Xhele Esati
+XHELË GASHI,Xhelë Gashi,Xhele Gashi
+XHELË MUSLIA,Xhelë Muslia,Xhele Muslia
+XHELË REXHEPI,Xhelë Rexhepi,Xhele Rexhepi
+XHEM HAZIRI,Xhem Haziri,Xhem Haziri
+XHEMA,Xhema,Xhema
+XHEMAIL ABDULLAHU,Xhemail Abdullahu,Xhemail Abdullahu
+XHEMAIL ALIU,Xhemail Aliu,Xhemail Aliu
+XHEMAIL FEJZULLAHU,Xhemail Fejzullahu,Xhemail Fejzullahu
+XHEMAIL GASHI,Xhemail Gashi,Xhemail Gashi
+XHEMAIL KAQURI,Xhemail Kaquri,Xhemail Kaquri
+XHEMAIL MEHMETI,Xhemail Mehmeti,Xhemail Mehmeti
+XHEMAJL ABRIA,Xhemajl Abria,Xhemajl Abria
+XHEMAJL ARIFI,Xhemajl Arifi,Xhemajl Arifi
+XHEMAJL AZEMI,Xhemajl Azemi,Xhemajl Azemi
+XHEMAJL BAJRAMI,Xhemajl Bajrami,Xhemajl Bajrami
+XHEMAJL BJEDIQI,Xhemajl Bjediqi,Xhemajl Bjediqi
+XHEMAJL BLAKAJ,Xhemajl Blakaj,Xhemajl Blakaj
+XHEMAJL BULIQI,Xhemajl Buliqi,Xhemajl Buliqi
+XHEMAJL CAMAJ,Xhemajl Camaj,Xhemajl Camaj
+XHEMAJL E MEHMET LUMA,Xhemajl e Mehmet Luma,Xhemajl e Mehmet Luma
+XHEMAJL FEJZA,Xhemajl Fejza,Xhemajl Fejza
+XHEMAJL FETAHU,Xhemajl Fetahu,Xhemajl Fetahu
+XHEMAJL GASHI,Xhemajl Gashi,Xhemajl Gashi
+XHEMAJL GËRXHALIU,Xhemajl Gërxhaliu,Xhemajl Gerxhaliu
+XHEMAJL HAXHA,Xhemajl Haxha,Xhemajl Haxha
+XHEMAJL HAXHIU,Xhemajl Haxhiu,Xhemajl Haxhiu
+XHEMAJL HOXHA,Xhemajl Hoxha,Xhemajl Hoxha
+XHEMAJL HYSENI,Xhemajl Hyseni,Xhemajl Hyseni
+XHEMAJL HYSENI,Xhemajl Hyseni,Xhemajl Hyseni
+XHEMAJL IZBICA,Xhemajl Izbica,Xhemajl Izbica
+XHEMAJL JASHARI,Xhemajl Jashari,Xhemajl Jashari
+XHEMAJL KADA,Xhemajl Kada,Xhemajl Kada
+XHEMAJL MEHMETI,Xhemajl Mehmeti,Xhemajl Mehmeti
+XHEMAJL MIFTARI,Xhemajl Miftari,Xhemajl Miftari
+XHEMAJL MJEKU,Xhemajl Mjeku,Xhemajl Mjeku
+XHEMAJL MORINA,Xhemajl Morina,Xhemajl Morina
+XHEMAJL MUSTAFA,Xhemajl Mustafa,Xhemajl Mustafa
+XHEMAJL OBRIA,Xhemajl Obria,Xhemajl Obria
+XHEMAJL OSMANI,Xhemajl Osmani,Xhemajl Osmani
+XHEMAJL PREKOROXHA,Xhemajl Prekoroxha,Xhemajl Prekoroxha
+XHEMAJL PRISHTINA,Xhemajl Prishtina,Xhemajl Prishtina
+XHEMAJL REXHEPI,Xhemajl Rexhepi,Xhemajl Rexhepi
+XHEMAJL SALIHU,Xhemajl Salihu,Xhemajl Salihu
+XHEMAJL SEJDIU,Xhemajl Sejdiu,Xhemajl Sejdiu
+XHEMAJL SYLA,Xhemajl Syla,Xhemajl Syla
+XHEMAJL ZEKOLLI,Xhemajl Zekolli,Xhemajl Zekolli
+XHEMAJL ZHAZHA,Xhemajl Zhazha,Xhemajl Zhazha
+XHEMAJLI,Xhemajli,Xhemajli
+XHEMAJLI BERISHA,Xhemajli Berisha,Xhemajli Berisha
+XHEMAJLI BYTYÇI,Xhemajli Bytyçi,Xhemajli Bytyci
+XHEMAJLI GASHI,Xhemajli Gashi,Xhemajli Gashi
+XHEMAJLI HALIMI,Xhemajli Halimi,Xhemajli Halimi
+XHEMAJLI J BYTYÇI,Xhemajli J Bytyçi,Xhemajli J Bytyci
+XHEMAJLI QATANI,Xhemajli Qatani,Xhemajli Qatani
+XHEMAJLI RAMAJ,Xhemajli Ramaj,Xhemajli Ramaj
+XHEMAJLI REXHA,Xhemajli Rexha,Xhemajli Rexha
+XHEMAJLI SALIHU,Xhemajli Salihu,Xhemajli Salihu
+XHEMAJLI THAÇI,Xhemajli Thaçi,Xhemajli Thaci
+XHEMAJVE,Xhemajve,Xhemajve
+XHEMAL KUÇI,Xhemal Kuçi,Xhemal Kuci
+XHEMALI,Xhemali,Xhemali
+XHEMIL DODA,Xhemil Doda,Xhemil Doda
+XHEMIL FLUKU,Xhemil Fluku,Xhemil Fluku
+XHEMIL KRASNIQI,Xhemil Krasniqi,Xhemil Krasniqi
+XHEMJAL NUHA,Xhemjal Nuha,Xhemjal Nuha
+XHEMRUSH MATOSHI,Xhemrush Matoshi,Xhemrush Matoshi
+XHEMSEDIN SUMA,Xhemsedin Suma,Xhemsedin Suma
+XHEMSHIR ISLAMI,Xhemshir Islami,Xhemshir Islami
+XHEMSHIR SHALAKU,Xhemshir Shalaku,Xhemshir Shalaku
+XHEMSHIR UKZMAJLI,Xhemshir Ukzmajli,Xhemshir Ukzmajli
+XHEMSHIR XHEMSHIRI,Xhemshir Xhemshiri,Xhemshir Xhemshiri
+XHEMSHIT BADALLAJ,Xhemshit Badallaj,Xhemshit Badallaj
+XHEMUSH KAMBERI,Xhemush Kamberi,Xhemush Kamberi
+XHEMË AVDYLAJ,Xhemë Avdylaj,Xheme Avdylaj
+XHEMË BARDHOSHI,Xhemë Bardhoshi,Xheme Bardhoshi
+XHEMË BARJA,Xhemë Barja,Xheme Barja
+XHEMË ELEZI,Xhemë Elezi,Xheme Elezi
+XHEMË GIGOLLAJ,Xhemë Gigollaj,Xheme Gigollaj
+XHEMË GORQAJ,Xhemë Gorqaj,Xheme Gorqaj
+XHEMË GOSTIVARI,Xhemë Gostivari,Xheme Gostivari
+XHEMË HASANI,Xhemë Hasani,Xheme Hasani
+XHEMË JASHARI,Xhemë Jashari,Xheme Jashari
+XHEMË KASTRATI,Xhemë Kastrati,Xheme Kastrati
+XHEMË KOVAÇICA,Xhemë Kovaçica,Xheme Kovacica
+XHEMË LAHI,Xhemë Lahi,Xheme Lahi
+XHEMË LANI,Xhemë Lani,Xheme Lani
+XHEMË LIMANI,Xhemë Limani,Xheme Limani
+XHEMË MURATI,Xhemë Murati,Xheme Murati
+XHEMË MUÇAJ,Xhemë Muçaj,Xheme Mucaj
+XHEMË QATANI,Xhemë Qatani,Xheme Qatani
+XHEMË QORRI,Xhemë Qorri,Xheme Qorri
+XHEMË REKA,Xhemë Reka,Xheme Reka
+XHEMË SADRIJA,Xhemë Sadrija,Xheme Sadrija
+XHEMË SLLATINA,Xhemë Sllatina,Xheme Sllatina
+XHEMË THAQI,Xhemë Thaqi,Xheme Thaqi
+XHEMË TOPALLI,Xhemë Topalli,Xheme Topalli
+XHEMË TËRNAVCI,Xhemë Tërnavci,Xheme Ternavci
+XHEMË VELIU,Xhemë Veliu,Xheme Veliu
+XHEMË XHELILI,Xhemë Xhelili,Xheme Xhelili
+XHEMË XHURAKU,Xhemë Xhuraku,Xheme Xhuraku
+XHEPA,Xhepa,Xhepa
+XHERENAT,Xherenat,Xherenat
+XHEVAHIR GASHI,Xhevahir Gashi,Xhevahir Gashi
+XHEVAT AHMETI,Xhevat Ahmeti,Xhevat Ahmeti
+XHEVAT AZEMI,Xhevat Azemi,Xhevat Azemi
+XHEVAT BEGOLLI,Xhevat Begolli,Xhevat Begolli
+XHEVAT BERISHA,Xhevat Berisha,Xhevat Berisha
+XHEVAT DEMAKU,Xhevat Demaku,Xhevat Demaku
+XHEVAT E HAFIR GASHI,Xhevat e Hafir Gashi,Xhevat e Hafir Gashi
+XHEVAT ELSHANI,Xhevat Elshani,Xhevat Elshani
+XHEVAT HAJDARI,Xhevat Hajdari,Xhevat Hajdari
+XHEVAT HOXHA,Xhevat Hoxha,Xhevat Hoxha
+XHEVAT HYSENAJ,Xhevat Hysenaj,Xhevat Hysenaj
+XHEVAT JUPOLLI,Xhevat Jupolli,Xhevat Jupolli
+XHEVAT JUSUFI,Xhevat Jusufi,Xhevat Jusufi
+XHEVAT KASAPI,Xhevat Kasapi,Xhevat Kasapi
+XHEVAT LLESHI,Xhevat Lleshi,Xhevat Lleshi
+XHEVAT MAXHUNI,Xhevat Maxhuni,Xhevat Maxhuni
+XHEVAT NITAJ,Xhevat Nitaj,Xhevat Nitaj
+XHEVAT QENA,Xhevat Qena,Xhevat Qena
+XHEVAT QERIMI,Xhevat Qerimi,Xhevat Qerimi
+XHEVAT REXHEPI,Xhevat Rexhepi,Xhevat Rexhepi
+XHEVAT SEJFIJAJ,Xhevat Sejfijaj,Xhevat Sejfijaj
+XHEVAT SOJEVA,Xhevat Sojeva,Xhevat Sojeva
+XHEVAT THAQI,Xhevat Thaqi,Xhevat Thaqi
+XHEVAT UKA,Xhevat Uka,Xhevat Uka
+XHEVAT Z BRAHIMI,Xhevat Z Brahimi,Xhevat Z Brahimi
+XHEVAT ZYMBERI,Xhevat Zymberi,Xhevat Zymberi
+XHEVDET AHMETI,Xhevdet Ahmeti,Xhevdet Ahmeti
+XHEVDET ARUQAJ,Xhevdet Aruqaj,Xhevdet Aruqaj
+XHEVDET BAJRAMI,Xhevdet Bajrami,Xhevdet Bajrami
+XHEVDET BERISHA,Xhevdet Berisha,Xhevdet Berisha
+XHEVDET BISTRICA,Xhevdet Bistrica,Xhevdet Bistrica
+XHEVDET BREZNICA,Xhevdet Breznica,Xhevdet Breznica
+XHEVDET BYTYQI,Xhevdet Bytyqi,Xhevdet Bytyqi
+XHEVDET DOBRANI,Xhevdet Dobrani,Xhevdet Dobrani
+XHEVDET DODA,Xhevdet Doda,Xhevdet Doda
+XHEVDET E ADEM PLAVA,Xhevdet e Adem Plava,Xhevdet e Adem Plava
+XHEVDET E SHPEND QORRI,Xhevdet e Shpend Qorri,Xhevdet e Shpend Qorri
+XHEVDET GURI,Xhevdet Guri,Xhevdet Guri
+XHEVDET HOTI,Xhevdet Hoti,Xhevdet Hoti
+XHEVDET JAHA,Xhevdet Jaha,Xhevdet Jaha
+XHEVDET KRASNIQI,Xhevdet Krasniqi,Xhevdet Krasniqi
+XHEVDET LECI,Xhevdet Leci,Xhevdet Leci
+XHEVDET LOSHAJ,Xhevdet Loshaj,Xhevdet Loshaj
+XHEVDET SADRIU,Xhevdet Sadriu,Xhevdet Sadriu
+XHEVDET SHALA,Xhevdet Shala,Xhevdet Shala
+XHEVDET SINANAJ,Xhevdet Sinanaj,Xhevdet Sinanaj
+XHEVDET SINANI,Xhevdet Sinani,Xhevdet Sinani
+XHEVDETI 89,Xhevdeti 89,Xhevdeti 89
+XHEVXHET MALIQI,Xhevxhet Maliqi,Xhevxhet Maliqi
+XHEVË DHE FEHMI LLADROVCI,Xhevë Dhe Fehmi Lladrovci,Xheve Dhe Fehmi Lladrovci
+XHEVË LLADROVCI,Xhevë Lladrovci,Xheve Lladrovci
+XHEVË LLADROVCI,Xhevë Lladrovci,Xheve Lladrovci
+XHEZAHIR BELA,Xhezahir Bela,Xhezahir Bela
+XHEZAIR MALOKU,Xhezair Maloku,Xhezair Maloku
+XHIGOLI,Xhigoli,Xhigoli
+XHON BELUSHI,Xhon Belushi,Xhon Belushi
+XHON HARRISONI,Xhon Harrisoni,Xhon Harrisoni
+XHORXH BUSH,Xhorxh Bush,Xhorxh Bush
+XHORXH BUSHI,Xhorxh Bushi,Xhorxh Bushi
+XHORXH VILLIAMS,Xhorxh Villiams,Xhorxh Villiams
+XHYLAZIM KÇIÇI,Xhylazim Kçiçi,Xhylazim Kcici
+XHYLBEHAR BADALLI,Xhylbehar Badalli,Xhylbehar Badalli
+XHYLI KUPINA,Xhyli Kupina,Xhyli Kupina
+XUNVE,Xunve,Xunve
+YENİ,Yeni̇,Yeni̇
+YILDIZ,Yildiz,Yildiz
+YJET E DUSHKAJËS,Yjet e Dushkajës,Yjet e Dushkajes
+YJET E ERENIKUT,Yjet e Erenikut,Yjet e Erenikut
+YJET E LIRISË,Yjet e Lirisë,Yjet e Lirise
+YKDILI,Ykdili,Ykdili
+YLBER FANAJ,Ylber Fanaj,Ylber Fanaj
+YLBER HARADINAJ,Ylber Haradinaj,Ylber Haradinaj
+YLBER HOXHA,Ylber Hoxha,Ylber Hoxha
+YLBER THAÇI,Ylber Thaçi,Ylber Thaci
+YLBERI,Ylberi,Ylberi
+YLFETE HUMOLLI,Ylfete Humolli,Ylfete Humolli
+YLL BARALIU,Yll Baraliu,Yll Baraliu
+YLL BYTYÇI,Yll Bytyçi,Yll Bytyci
+YLL GASHI,Yll Gashi,Yll Gashi
+YLL MORINA,Yll Morina,Yll Morina
+YLLI,Ylli,Ylli
+YLLI I DRITES,Ylli I Drites,Ylli I Drites
+YLLI I DRITËS,Ylli I Dritës,Ylli I Drites
+YLLKA DOMI,Yllka Domi,Yllka Domi
+YLLKA DOMI,Yllka Domi,Yllka Domi
+YLVI DEMIRI,Ylvi Demiri,Ylvi Demiri
+YMER AGA,Ymer Aga,Ymer Aga
+YMER ALIU,Ymer Aliu,Ymer Aliu
+YMER ALUSHANI,Ymer Alushani,Ymer Alushani
+YMER BEKTESHI,Ymer Bekteshi,Ymer Bekteshi
+YMER BERISHA,Ymer Berisha,Ymer Berisha
+YMER BLENISHTI,Ymer Blenishti,Ymer Blenishti
+YMER BYTYQI E SHKELZEN SYLA,Ymer Bytyqi e Shkelzen Syla,Ymer Bytyqi e Shkelzen Syla
+YMER BYTYÇI,Ymer Bytyçi,Ymer Bytyci
+YMER DEVETAKU,Ymer Devetaku,Ymer Devetaku
+YMER DOBRA,Ymer Dobra,Ymer Dobra
+YMER E LIMAN DUHLA,Ymer e Liman Duhla,Ymer e Liman Duhla
+YMER ELSHANI,Ymer Elshani,Ymer Elshani
+YMER GASHI,Ymer Gashi,Ymer Gashi
+YMER JAKA,Ymer Jaka,Ymer Jaka
+YMER KRASNIQI,Ymer Krasniqi,Ymer Krasniqi
+YMER PAQARIZI,Ymer Paqarizi,Ymer Paqarizi
+YMER POPOCI,Ymer Popoci,Ymer Popoci
+YMER PRIZERNI,Ymer Prizerni,Ymer Prizerni
+YMER PRIZRENI,Ymer Prizreni,Ymer Prizreni
+YMER PRIZRENI,Ymer Prizreni,Ymer Prizreni
+YMER PULA,Ymer Pula,Ymer Pula
+YMER RIZA,Ymer Riza,Ymer Riza
+YMER SELACI,Ymer Selaci,Ymer Selaci
+YMER SFARÇA,Ymer Sfarça,Ymer Sfarca
+YMER SHALA,Ymer Shala,Ymer Shala
+YMER SHALA,Ymer Shala,Ymer Shala
+YMER ZASKOKU,Ymer Zaskoku,Ymer Zaskoku
+YMER ZEKA,Ymer Zeka,Ymer Zeka
+YMER ZHUSHI,Ymer Zhushi,Ymer Zhushi
+YMERI,Ymeri,Ymeri
+YMRI KRYEZIU,Ymri Kryeziu,Ymri Kryeziu
+YMRIDIN QENGAJ,Ymridin Qengaj,Ymridin Qengaj
+YMRIDIN ÇENGAJ,Ymridin Çengaj,Ymridin Cengaj
+YSEIN ISLAMAJ,Ysein Islamaj,Ysein Islamaj
+YUNUS EMRE,Yunus Emre,Yunus Emre
+YUSUF ÖZER,Yusuf Özer,Yusuf Oezer
+ZABELET E REJA,Zabelet e Reja,Zabelet e Reja
+ZABELI,Zabeli,Zabeli
+ZABELI I RREKOLLËVE,Zabeli I Rrekollëve,Zabeli I Rrekolleve
+ZADRIMA,Zadrima,Zadrima
+ZADUŽBINSKA,Zadužbinska,Zaduzbinska
+ZAGREBI,Zagrebi,Zagrebi
+ZAHIDE JASHARI,Zahide Jashari,Zahide Jashari
+ZAHIR HAXHOLLI,Zahir Haxholli,Zahir Haxholli
+ZAHIR ISTREFI,Zahir Istrefi,Zahir Istrefi
+ZAHIR MUSTAFA,Zahir Mustafa,Zahir Mustafa
+ZAHIR NEZIRI,Zahir Neziri,Zahir Neziri
+ZAHIR PAJAZITI,Zahir Pajaziti,Zahir Pajaziti
+ZAHIR UKA,Zahir Uka,Zahir Uka
+ZAHIRI,Zahiri,Zahiri
+ZAHIT ZAHITI,Zahit Zahiti,Zahit Zahiti
+ZAIM MUQA,Zaim Muqa,Zaim Muqa
+ZAIM ZEQA,Zaim Zeqa,Zaim Zeqa
+ZAIMLLARE,Zaimllare,Zaimllare
+ZAJQECIT,Zajqecit,Zajqecit
+ZAKOTSKA,Zakotska,Zakotska
+ZAKË PEPIQI,Zakë Pepiqi,Zake Pepiqi
+ZALLI I BARDHË,Zalli I Bardhë,Zalli I Bardhe
+ZALLI I VERDHË,Zalli I Verdhë,Zalli I Verdhe
+ZAMBAKU,Zambaku,Zambaku
+ZAMBAKU SHQIPTAR,Zambaku Shqiptar,Zambaku Shqiptar
+ZANA E MALEVE,Zana e Maleve,Zana e Maleve
+ZANA E MALIT,Zana e Malit,Zana e Malit
+ZANA MALIT,Zana Malit,Zana Malit
+ZANAT,Zanat,Zanat
+ZAPLEČI,Zapleči,Zapleci
+ZARA,Zara,Zara
+ZARBINCA,Zarbinca,Zarbinca
+ZARIFE JASHARI,Zarife Jashari,Zarife Jashari
+ZARIJE BUJIĆ,Zarije Bujić,Zarije Bujic
+ZARIQI,Zariqi,Zariqi
+ZATDŽAMIJA,Zatdžamija,Zatdzamija
+ZAVOR,Zavor,Zavor
+ZBORIŠTE,Zborište,Zboriste
+ZDRAVSTVENA,Zdravstvena,Zdravstvena
+ZEF GJIDODA,Zef Gjidoda,Zef Gjidoda
+ZEF GJOKAJ,Zef Gjokaj,Zef Gjokaj
+ZEF GJON KRASNIQI,Zef Gjon Krasniqi,Zef Gjon Krasniqi
+ZEF IBISHI,Zef Ibishi,Zef Ibishi
+ZEF JUBANI,Zef Jubani,Zef Jubani
+ZEF KQIRAJ,Zef Kqiraj,Zef Kqiraj
+ZEF LEKAJ,Zef Lekaj,Zef Lekaj
+ZEF LUSH MARKU,Zef Lush Marku,Zef Lush Marku
+ZEF PREKA,Zef Preka,Zef Preka
+ZEF PËLLUMBI,Zef Pëllumbi,Zef Pellumbi
+ZEF PËRKOLA,Zef Përkola,Zef Perkola
+ZEF SEREMBE,Zef Serembe,Zef Serembe
+ZEF SKIROI,Zef Skiroi,Zef Skiroi
+ZEF TAHIRI,Zef Tahiri,Zef Tahiri
+ZEF TUNA,Zef Tuna,Zef Tuna
+ZEFI  I VOGËL,Zefi  I Vogël,Zefi  I Vogel
+ZEFI VOGËL,Zefi Vogël,Zefi Vogel
+ZEJADIN SINANI,Zejadin Sinani,Zejadin Sinani
+ZEJNAJ,Zejnaj,Zejnaj
+ZEJNEL SALIHU,Zejnel Salihu,Zejnel Salihu
+ZEJNULLAH DOBERDOLANI,Zejnullah Doberdolani,Zejnullah Doberdolani
+ZEJNULLAH ELSHANI,Zejnullah Elshani,Zejnullah Elshani
+ZEJNULLAH ESATI,Zejnullah Esati,Zejnullah Esati
+ZEJNULLAH HALILI,Zejnullah Halili,Zejnullah Halili
+ZEJNULLAH MAKOLLI,Zejnullah Makolli,Zejnullah Makolli
+ZEJNULLAH ZEJNULLAHU,Zejnullah Zejnullahu,Zejnullah Zejnullahu
+ZEJNULLAH ZENA,Zejnullah Zena,Zejnullah Zena
+ZEJNULLAHA ZEJNA,Zejnullaha Zejna,Zejnullaha Zejna
+ZEJNULLAHU,Zejnullahu,Zejnullahu
+ZEJNUN AHMETI,Zejnun Ahmeti,Zejnun Ahmeti
+ZEJTARËT,Zejtarët,Zejtaret
+ZEJTARËVE,Zejtarëve,Zejtareve
+ZEKA,Zeka,Zeka
+ZEKAJ,Zekaj,Zekaj
+ZEKERIA CANA,Zekeria Cana,Zekeria Cana
+ZEKERIA REXHA,Zekeria Rexha,Zekeria Rexha
+ZEKERIJA REXHA,Zekerija Rexha,Zekerija Rexha
+ZEKI SHULEMAJA,Zeki Shulemaja,Zeki Shulemaja
+ZEKIR DARDHISHTA,Zekir Dardhishta,Zekir Dardhishta
+ZEKË BAHTIRI,Zekë Bahtiri,Zeke Bahtiri
+ZEKË BAJRAKTARI,Zekë Bajraktari,Zeke Bajraktari
+ZEKË DUMNICA,Zekë Dumnica,Zeke Dumnica
+ZEKË E FATMIR GASHANI,Zekë e Fatmir Gashani,Zeke e Fatmir Gashani
+ZEKË FAZLIJA,Zekë Fazlija,Zeke Fazlija
+ZEKË HALITI,Zekë Haliti,Zeke Haliti
+ZEKË HASANMETAJ,Zekë Hasanmetaj,Zeke Hasanmetaj
+ZEKË KOLLUDRA,Zekë Kolludra,Zeke Kolludra
+ZEKË KRASNIQI,Zekë Krasniqi,Zeke Krasniqi
+ZEKË LUMA,Zekë Luma,Zeke Luma
+ZEKË ORACA,Zekë Oraca,Zeke Oraca
+ZEKË PACOLLI,Zekë Pacolli,Zeke Pacolli
+ZEKË QUNI,Zekë Quni,Zeke Quni
+ZEKË REVUQI,Zekë Revuqi,Zeke Revuqi
+ZELFIJE JETULLAHU,Zelfije Jetullahu,Zelfije Jetullahu
+ZEMLJORADNIČKA,Zemljoradnička,Zemljoradnicka
+ZEMUNSKA,Zemunska,Zemunska
+ZENE VESELI,Zene Veseli,Zene Veseli
+ZENEL ABRIA,Zenel Abria,Zenel Abria
+ZENEL ALIA,Zenel Alia,Zenel Alia
+ZENEL BAJRAKTARI,Zenel Bajraktari,Zenel Bajraktari
+ZENEL BALA,Zenel Bala,Zenel Bala
+ZENEL CURRAJ,Zenel Curraj,Zenel Curraj
+ZENEL DANI,Zenel Dani,Zenel Dani
+ZENEL EMËRLLAHU,Zenel Emërllahu,Zenel Emerllahu
+ZENEL GJOLEKA,Zenel Gjoleka,Zenel Gjoleka
+ZENEL GJONLEKA,Zenel Gjonleka,Zenel Gjonleka
+ZENEL HAJDINI,Zenel Hajdini,Zenel Hajdini
+ZENEL HAJDINI,Zenel Hajdini,Zenel Hajdini
+ZENEL HAJRIZI,Zenel Hajrizi,Zenel Hajrizi
+ZENEL HOXHA,Zenel Hoxha,Zenel Hoxha
+ZENEL ISUFI,Zenel Isufi,Zenel Isufi
+ZENEL KARAQEVA,Zenel Karaqeva,Zenel Karaqeva
+ZENEL KASTRATI,Zenel Kastrati,Zenel Kastrati
+ZENEL LATIFI,Zenel Latifi,Zenel Latifi
+ZENEL LUZHA,Zenel Luzha,Zenel Luzha
+ZENEL MORINA,Zenel Morina,Zenel Morina
+ZENEL MËZIU,Zenel Mëziu,Zenel Meziu
+ZENEL PAJAZITI,Zenel Pajaziti,Zenel Pajaziti
+ZENEL QORROLLI,Zenel Qorrolli,Zenel Qorrolli
+ZENEL R PODVORICA,Zenel R Podvorica,Zenel R Podvorica
+ZENEL S MEHOLLI,Zenel S Meholli,Zenel S Meholli
+ZENEL SYLA,Zenel Syla,Zenel Syla
+ZENEL TALI,Zenel Tali,Zenel Tali
+ZENEL THAQI,Zenel Thaqi,Zenel Thaqi
+ZENEL TORA,Zenel Tora,Zenel Tora
+ZENEL ZENELAJ,Zenel Zenelaj,Zenel Zenelaj
+ZENEL ZHABARI,Zenel Zhabari,Zenel Zhabari
+ZENELABEDIN DERVISHDANA,Zenelabedin Dervishdana,Zenelabedin Dervishdana
+ZENELI E SINANI,Zeneli e Sinani,Zeneli e Sinani
+ZENULLAH BEGU,Zenullah Begu,Zenullah Begu
+ZENULLAH MAKIQI,Zenullah Makiqi,Zenullah Makiqi
+ZENUN AVDULLI,Zenun Avdulli,Zenun Avdulli
+ZENUN BEQA,Zenun Beqa,Zenun Beqa
+ZENUN GJOCAJ,Zenun Gjocaj,Zenun Gjocaj
+ZENUN GODENI,Zenun Godeni,Zenun Godeni
+ZENUN KEPA,Zenun Kepa,Zenun Kepa
+ZENUN MATAJ,Zenun Mataj,Zenun Mataj
+ZENUN MIFTARI,Zenun Miftari,Zenun Miftari
+ZENUN MUSTAFA,Zenun Mustafa,Zenun Mustafa
+ZENUN STOJKU,Zenun Stojku,Zenun Stojku
+ZENUN ÇOÇAJ,Zenun Çoçaj,Zenun Cocaj
+ZENUNI,Zenuni,Zenuni
+ZENË CAKAJ,Zenë Cakaj,Zene Cakaj
+ZENË CECELIA,Zenë Cecelia,Zene Cecelia
+ZENË ISTOGU,Zenë Istogu,Zene Istogu
+ZENË MAZHIQI,Zenë Mazhiqi,Zene Mazhiqi
+ZENË RUSHITI,Zenë Rushiti,Zene Rushiti
+ZENË SEKIRAQA,Zenë Sekiraqa,Zene Sekiraqa
+ZEQIR ADEMI,Zeqir Ademi,Zeqir Ademi
+ZEQIR BAJRAMI,Zeqir Bajrami,Zeqir Bajrami
+ZEQIR BEHLULI,Zeqir Behluli,Zeqir Behluli
+ZEQIR BERISHA,Zeqir Berisha,Zeqir Berisha
+ZEQIR BIBA,Zeqir Biba,Zeqir Biba
+ZEQIR BISLIM XHAFERI,Zeqir Bislim Xhaferi,Zeqir Bislim Xhaferi
+ZEQIR BUNJAKU,Zeqir Bunjaku,Zeqir Bunjaku
+ZEQIR CAKIQI,Zeqir Cakiqi,Zeqir Cakiqi
+ZEQIR DURMISHI,Zeqir Durmishi,Zeqir Durmishi
+ZEQIR E ARBËR GASHI,Zeqir e Arbër Gashi,Zeqir e Arber Gashi
+ZEQIR E BEQIR MEHMETI,Zeqir e Beqir Mehmeti,Zeqir e Beqir Mehmeti
+ZEQIR E TAFIL PARDUZI,Zeqir e Tafil Parduzi,Zeqir e Tafil Parduzi
+ZEQIR GASHI,Zeqir Gashi,Zeqir Gashi
+ZEQIR H MULOLLI,Zeqir H Mulolli,Zeqir H Mulolli
+ZEQIR HALILI,Zeqir Halili,Zeqir Halili
+ZEQIR HASHANI,Zeqir Hashani,Zeqir Hashani
+ZEQIR HAZIR ISTOGU,Zeqir Hazir Istogu,Zeqir Hazir Istogu
+ZEQIR HOXHA,Zeqir Hoxha,Zeqir Hoxha
+ZEQIR IBRAHIMAJ,Zeqir Ibrahimaj,Zeqir Ibrahimaj
+ZEQIR KADRIA,Zeqir Kadria,Zeqir Kadria
+ZEQIR KADRIU,Zeqir Kadriu,Zeqir Kadriu
+ZEQIR KAMEROLLI,Zeqir Kamerolli,Zeqir Kamerolli
+ZEQIR KIQINA,Zeqir Kiqina,Zeqir Kiqina
+ZEQIR KRASNIQI,Zeqir Krasniqi,Zeqir Krasniqi
+ZEQIR KUNOVIKU,Zeqir Kunoviku,Zeqir Kunoviku
+ZEQIR KURTI,Zeqir Kurti,Zeqir Kurti
+ZEQIR LAHOLLI,Zeqir Laholli,Zeqir Laholli
+ZEQIR MIFTARI,Zeqir Miftari,Zeqir Miftari
+ZEQIR PËRTESHI,Zeqir Përteshi,Zeqir Perteshi
+ZEQIR R GËRDOCI,Zeqir R Gërdoci,Zeqir R Gerdoci
+ZEQIR RAMADANI,Zeqir Ramadani,Zeqir Ramadani
+ZEQIR RASHICA,Zeqir Rashica,Zeqir Rashica
+ZEQIR REXHA,Zeqir Rexha,Zeqir Rexha
+ZEQIR REXHEPI,Zeqir Rexhepi,Zeqir Rexhepi
+ZEQIR RUDARI,Zeqir Rudari,Zeqir Rudari
+ZEQIR RUGOVA,Zeqir Rugova,Zeqir Rugova
+ZEQIR SH MUQOLLI,Zeqir Sh Muqolli,Zeqir Sh Muqolli
+ZEQIR SHERIFI,Zeqir Sherifi,Zeqir Sherifi
+ZEQIR SINANI,Zeqir Sinani,Zeqir Sinani
+ZEQIR SMAJL HASI,Zeqir Smajl Hasi,Zeqir Smajl Hasi
+ZEQIR ZEQIRI,Zeqir Zeqiri,Zeqir Zeqiri
+ZEQIRAJT,Zeqirajt,Zeqirajt
+ZEQIRI,Zeqiri,Zeqiri
+ZEQË AVDYLI,Zeqë Avdyli,Zeqe Avdyli
+ZEQË BAJRAMI,Zeqë Bajrami,Zeqe Bajrami
+ZEQË BERISHA,Zeqë Berisha,Zeqe Berisha
+ZEQË ISTREFAJ,Zeqë Istrefaj,Zeqe Istrefaj
+ZEQË JASHARI,Zeqë Jashari,Zeqe Jashari
+ZEQË MARIQANI,Zeqë Mariqani,Zeqe Mariqani
+ZEQË MEHMETI,Zeqë Mehmeti,Zeqe Mehmeti
+ZEQË MJEKU,Zeqë Mjeku,Zeqe Mjeku
+ZEQË PIRA,Zeqë Pira,Zeqe Pira
+ZEQË RAMA,Zeqë Rama,Zeqe Rama
+ZEQË ZEQIRI,Zeqë Zeqiri,Zeqe Zeqiri
+ZGIJET,Zgijet,Zgijet
+ZGJIMI,Zgjimi,Zgjimi
+ZHAN DARK,Zhan Dark,Zhan Dark
+ZHAN ZHAK RUSO,Zhan Zhak Ruso,Zhan Zhak Ruso
+ZHELEZNIÇKA,Zhelezniçka,Zheleznicka
+ZHITIA,Zhitia,Zhitia
+ZHUJ GJOCI,Zhuj Gjoci,Zhuj Gjoci
+ZHUJ SELMANI,Zhuj Selmani,Zhuj Selmani
+ZHURI,Zhuri,Zhuri
+ZHURI 89,Zhuri 89,Zhuri 89
+ZHURJELA,Zhurjela,Zhurjela
+ZHUSHI,Zhushi,Zhushi
+ZIAVER VLLASALIU,Ziaver Vllasaliu,Ziaver Vllasaliu
+ZIBË VISHI,Zibë Vishi,Zibe Vishi
+ZIHNI SAKO,Zihni Sako,Zihni Sako
+ZIJA DIBRA,Zija Dibra,Zija Dibra
+ZIJA LOKU,Zija Loku,Zija Loku
+ZIJA PRISHTINA,Zija Prishtina,Zija Prishtina
+ZIJA SHEMSIU,Zija Shemsiu,Zija Shemsiu
+ZIJA SHKODRA,Zija Shkodra,Zija Shkodra
+ZIJA THAÇI,Zija Thaçi,Zija Thaci
+ZIJADIN CERAJA,Zijadin Ceraja,Zijadin Ceraja
+ZIKRET MIFTARI,Zikret Miftari,Zikret Miftari
+ZINOVA,Zinova,Zinova
+ZITA BASHOTA,Zita Bashota,Zita Bashota
+ZLATIBORSKA,Zlatiborska,Zlatiborska
+ZLATKA PETROVIĆA,Zlatka Petrovića,Zlatka Petrovica
+ZLATNIH LJILJANA,Zlatnih Ljiljana,Zlatnih Ljiljana
+ZLLASHI I VOGËL,Zllashi I Vogël,Zllashi I Vogel
+ZLLATARIT,Zllatarit,Zllatarit
+ZO E PASHTRIKUT,Zo e Pashtrikut,Zo e Pashtrikut
+ZOJA LETNICËS,Zoja Letnicës,Zoja Letnices
+ZOJA MADHE,Zoja Madhe,Zoja Madhe
+ZONA E NERODIMES,Zona e Nerodimes,Zona e Nerodimes
+ZONA E NERODIMËS,Zona e Nerodimës,Zona e Nerodimes
+ZONA INDUSTRIALE,Zona Industriale,Zona Industriale
+ZONA OPERATIVE E DUKAGJINIT,Zona Operative e Dukagjinit,Zona Operative e Dukagjinit
+ZONA OPERATIVE E KARADAKUT,Zona Operative e Karadakut,Zona Operative e Karadakut
+ZONA OPERATIVE E PASHTRIKUT,Zona Operative e Pashtrikut,Zona Operative e Pashtrikut
+ZOP,Zop,Zop
+ZORANA GUDŽIĆA,Zorana Gudžića,Zorana Gudzica
+ZORANA ZDRAVKOVIĆA,Zorana Zdravkovića,Zorana Zdravkovica
+ZORANA ĐINĐIĆA,Zorana Đinđića,Zorana Dindica
+ZUBEYDE HANIM,Zubeyde Hanim,Zubeyde Hanim
+ZUKA,Zuka,Zuka
+ZUKAJ,Zukaj,Zukaj
+ZUKË BUJA,Zukë Buja,Zuke Buja
+ZUKË HAXHIA,Zukë Haxhia,Zuke Haxhia
+ZUKË LAHU,Zukë Lahu,Zuke Lahu
+ZUKË LECI,Zukë Leci,Zuke Leci
+ZULFIJA KARADOLAMI,Zulfija Karadolami,Zulfija Karadolami
+ZVEČANSKA,Zvečanska,Zvecanska
+ZVEČANSKA,Zvečanska,Zvecanska
+ZYBER SHALA,Zyber Shala,Zyber Shala
+ZYHRA MORINA,Zyhra Morina,Zyhra Morina
+ZYLA JASHARI,Zyla Jashari,Zyla Jashari
+ZYLFA,Zylfa,Zylfa
+ZYLFI AGUSHI,Zylfi Agushi,Zylfi Agushi
+ZYLFI ÇAKA,Zylfi Çaka,Zylfi Caka
+ZYLFIE GASHI,Zylfie Gashi,Zylfie Gashi
+ZYLFIJE GASHI,Zylfije Gashi,Zylfije Gashi
+ZYLFIJE KRASNIQI,Zylfije Krasniqi,Zylfije Krasniqi
+ZYLFO QERIMI,Zylfo Qerimi,Zylfo Qerimi
+ZYMBERI,Zymberi,Zymberi
+ZYMER BAJRAKTARI,Zymer Bajraktari,Zymer Bajraktari
+ZYMER BINAKAJ,Zymer Binakaj,Zymer Binakaj
+ZYMER CACAJ,Zymer Cacaj,Zymer Cacaj
+ZYMER DAUTI,Zymer Dauti,Zymer Dauti
+ZYMER FEKA,Zymer Feka,Zymer Feka
+ZYMER HAJRIZI,Zymer Hajrizi,Zymer Hajrizi
+ZYMER HALITI,Zymer Haliti,Zymer Haliti
+ZYMER HASANI,Zymer Hasani,Zymer Hasani
+ZYMER HAZIRI,Zymer Haziri,Zymer Haziri
+ZYMER IBISHI,Zymer Ibishi,Zymer Ibishi
+ZYMER KAMER KAMERI,Zymer Kamer Kameri,Zymer Kamer Kameri
+ZYMER KAMERI,Zymer Kameri,Zymer Kameri
+ZYMER KASTRATI,Zymer Kastrati,Zymer Kastrati
+ZYMER KOSUMI,Zymer Kosumi,Zymer Kosumi
+ZYMER MALIQI,Zymer Maliqi,Zymer Maliqi
+ZYMER MORINA,Zymer Morina,Zymer Morina
+ZYMER NIMANI,Zymer Nimani,Zymer Nimani
+ZYMER OSMANI,Zymer Osmani,Zymer Osmani
+ZYMER SHABANI,Zymer Shabani,Zymer Shabani
+ZYMER SHAQIRI,Zymer Shaqiri,Zymer Shaqiri
+ZYMER SHASHA,Zymer Shasha,Zymer Shasha
+ZYMER SOFTAJ,Zymer Softaj,Zymer Softaj
+ZYMER TAHIRI,Zymer Tahiri,Zymer Tahiri
+ZYMER TURKAJ,Zymer Turkaj,Zymer Turkaj
+ZYMERAJ,Zymeraj,Zymeraj
+ZYMERI,Zymeri,Zymeri
+ZYMI,Zymi,Zymi
+ZËRI I ARBËRIT,Zëri I Arbërit,Zeri I Arberit
+ZËRI I ATDHEUT,Zëri I Atdheut,Zeri I Atdheut
+ZËRI I KOSOVËS,Zëri I Kosovës,Zeri I Kosoves
+ÇABRA,Çabra,Cabra
+ÇADRAKU,Çadraku,Cadraku
+ÇAJKOVSKI,Çajkovski,Cajkovski
+ÇAJRI,Çajri,Cajri
+ÇAJUPI,Çajupi,Cajupi
+ÇAMURLIA,Çamurlia,Camurlia
+ÇAMËRIA,Çamëria,Cameria
+ÇAMËT,Çamët,Camet
+ÇANAKKALA,Çanakkala,Canakkala
+ÇANAKKALE,Çanakkale,Canakkale
+ÇARDAKU,Çardaku,Cardaku
+ÇELIKU,Çeliku,Celiku
+ÇELË L GASHI,Çelë L Gashi,Cele L Gashi
+ÇELË UKAJ,Çelë Ukaj,Cele Ukaj
+ÇERDHJA E UÇK,Çerdhja e Uçk,Cerdhja e Uck
+ÇERQIZ TOPULLI,Çerqiz Topulli,Cerqiz Topulli
+ÇERÇIZ TOPULLI,Çerçiz Topulli,Cerciz Topulli
+ÇERÇIZ TOPULLI,Çerçiz Topulli,Cerciz Topulli
+ÇERÇIZ TOPULLI,Çerçiz Topulli,Cerciz Topulli
+ÇESHMJA,Çeshmja,Ceshmja
+ÇESK ZADEJA,Çesk Zadeja,Cesk Zadeja
+ÇETA E LLAPIT,Çeta e Llapit,Ceta e Llapit
+ÇEÇILE KRASNIQI,Çeçile Krasniqi,Cecile Krasniqi
+ÇIKAT,Çikat,Cikat
+ÇINAR,Çinar,Cinar
+ÇLIRIMI,Çlirimi,Clirimi
+ÇLIRIMTARET,Çlirimtaret,Clirimtaret
+ÇLIRIMTARI,Çlirimtari,Clirimtari
+ÇLIRIMTARËT,Çlirimtarët,Clirimtaret
+ÇLIRIMTARËT E BANULLËS,Çlirimtarët e Banullës,Clirimtaret e Banulles
+ÇLIRIMTARËT E LIRISË,Çlirimtarët e Lirisë,Clirimtaret e Lirise
+ÇOLLAKAJ,Çollakaj,Collakaj
+ÇUKA ZHIGU,Çuka Zhigu,Cuka Zhigu
+ÇUPAJE,Çupaje,Cupaje
+ÇUPI,Çupi,Cupi
+ÇİMEN,Çi̇men,Ci̇men
+ŠABAN  DEMIRI,Šaban  Demiri,Saban  Demiri
+ŠABANOVA ĆEŠMA,Šabanova Ćešma,Sabanova Cesma
+ČABURSKA,Čaburska,Caburska
+ĆAIR,Ćair,Cair
+ҪALA,Ҫala,Ҫala
+ĆALOVCI,Ćalovci,Calovci
+ǄAMIJSKA,ǅamijska,ǅamijska
+ĆAMIL SIJARIĆ,Ćamil Sijarić,Camil Sijaric
+ČANAKALJASKIH ŠEHIDA,Čanakaljaskih Šehida,Canakaljaskih Sehida
+ĆANAKALJSKA,Ćanakaljska,Canakaljska
+ČARDACI,Čardaci,Cardaci
+ŽARKA PETROVIĆA,Žarka Petrovića,Zarka Petrovica
+ŠARKINSKA PORTA,Šarkinska Porta,Sarkinska Porta
+ŠARSKA,Šarska,Sarska
+ĆARŠIJA,Ćaršija,Carsija
+ŠAŠKOVAČKA,Šaškovačka,Saskovacka
+ŽEGRANSKA,Žegranska,Zegranska
+ŞEHİTLER,Şehi̇tler,Sehi̇tler
+ŠEKSPIROVA,Šekspirova,Sekspirova
+ŽELEZNIČKA,Železnička,Zeleznicka
+ŠELJIŠTA,Šeljišta,Seljista
+ŞEN,Şen,Sen
+ŠEPOVSKA,Šepovska,Sepovska
+ŠERIFOVCI,Šerifovci,Serifovci
+ČESMA,Česma,Cesma
+ĆIRILA I METODIJA,Ćirila I Metodija,Cirila I Metodija
+ŽITINJSKA,Žitinjska,Zitinjska
+ŽIVKO VASIČ,Živko Vasič,Zivko Vasic
+ŽIVKOVA LIVADA,Živkova Livada,Zivkova Livada
+ŽIVOJINA PAVLOVIĆA,Živojina Pavlovića,Zivojina Pavlovica
+ŽIVORAD STOJANOVIČA,Živorad Stojanoviča,Zivorad Stojanovica
+ŽIVOT,Život,Zivot
+ČIČA DRAŽINA,Čiča Dražina,Cica Drazina
+ČIČINA,Čičina,Cicina
+ŠKOLSKA,Školska,Skolska
+ҪLIRIMI,Ҫlirimi,Ҫlirimi
+İNCİ,İnci̇,Inci̇
+ŠOLINO,Šolino,Solino
+ŠOPAT,Šopat,Sopat
+ŠOPOVCI,Šopovci,Sopovci
+ŠOPSKA,Šopska,Sopska
+ĆOPUR,Ćopur,Copur
+ĐORĐA LEKIĆA,Đorđa Lekića,Dorda Lekica
+ŠTRCI,Štrci,Strci
+ČUKA,Čuka,Cuka
+ĆUKAR,Ćukar,Cukar
+ČULJAN,Čuljan,Culjan
+ŠUMADIJSKA,Šumadijska,Sumadijska
+ŠUMADINSKA,Šumadinska,Sumadinska
+ŽUPA,Župa,Zupa
+ĆUPEVDŽIJA,Ćupevdžija,Cupevdzija
+ČUPINO,Čupino,Cupino
+ĐURA JAKŠIĆ,Đura Jakšić,Dura Jaksic
+ĐURE JAKŠIĆA,Đure Jakšića,Dure Jaksica
+ĐUROVCI,Đurovci,Durovci
+ĆURČIĆEVA,Ćurčićeva,Curciceva
+ŠUŠINA,Šušina,Susina
+ĆUĆINA KOŠARA,Ćućina Košara,Cucina Kosara
+ĆUĆULJ MAALO,Ćućulj Maalo,Cuculj Maalo
